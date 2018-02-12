@@ -10,6 +10,7 @@ At 2015 I did the _"Introspection Game"_, trying to create an immersive story in
 
 This time, the object is a video - streaming from Vimeo. I translated the video's images into a huge mystical thing and put it above the ocean. 
 
+Here is a short screen recording video -> [https://vimeo.com/255467561](https://vimeo.com/255467561)
 
 ## Plugin/SDK used:
 
